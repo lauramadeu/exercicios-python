@@ -1,0 +1,1 @@
+# faça um programa que vc escolha entre real e euro e ele converte o valor para dolar.
